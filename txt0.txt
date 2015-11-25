@@ -1,7 +1,3 @@
 -- inicial 12:01 miercoles 25 de nov de 2015
 
-<<<<<<< Updated upstream
 --- modifcation on copia source tree
-=======
---- algo nuevo 12:41
->>>>>>> Stashed changes
